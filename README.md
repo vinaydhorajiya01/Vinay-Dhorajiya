@@ -29,7 +29,7 @@ Microsoft Azure | GitHub
 Visual Studio Code | IntelliJ IDEA | Android Studio | Power BI | Cursor  
 
 #### 💬 Languages  
-🇩🇪 German (B1) | 🇬🇧 English (C2) | 🇮🇳 Hindi & Gujarati (C2)
+German (B1) | English (C1) | Hindi & Gujarati (C2)
 
 ---
 
