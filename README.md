@@ -1,7 +1,6 @@
 # Vinay-Dhorajiya
 Hi there 👋 I'm Vinay Dhorajiya  
 🚀 Master’s Student in Automotive Software Engineering | TU Chemnitz, Germany  
-👨‍💻 Software Development Intern – Computer Vision | Casablanca.AI GmbH  
 📫 Reach me at: vinay.dhorajiya19@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/vinay-dhorajiya-2652501b5/) | [GitHub](https://github.com/vinaydhorajiya01)  
 🧠 Interests: AI in Automotive, Computer Vision, NLP, Open Source, and Tech for Good  
