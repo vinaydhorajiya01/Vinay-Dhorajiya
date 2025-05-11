@@ -10,7 +10,7 @@ Hi there 👋 I'm Vinay Dhorajiya
 ### 🧰 Things I code with
 
 #### 👨‍💻 Programming Languages  
-C | C++ | Python | Java | PHP | HTML | CSS | JavaScript | XML | Liquidjs  
+C | Python | Java | PHP | HTML | CSS | JavaScript | XML | Liquidjs 
 
 #### 🗄️ Databases  
 MySQL | SQLite  
@@ -19,7 +19,7 @@ MySQL | SQLite
 Scikit-learn | NumPy | Pandas | Matplotlib | OpenCV | LangChain | FAISS | Vector Databases | Streamlit  
 
 #### 🧪 Tools & Frameworks  
-Flask | PyQt | Selenium | BeautifulSoup | CVAT  
+Flask | PyQt | Selenium | BeautifulSoup | CVAT  | React 
 
 #### ☁️ Cloud & DevOps  
 Microsoft Azure | GitHub  
