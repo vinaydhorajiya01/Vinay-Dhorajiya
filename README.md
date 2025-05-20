@@ -49,6 +49,9 @@ I’m a curious mind, AI enthusiast, and builder at heart currently pursuing a *
 
 ## 🚀 Projects
 
+### 📝 LinkedIn Post Generator (2025)
+Streamlit + LangChain + LLaMA 3.3 + Groq-powered tool that mimics a user's LinkedIn writing style by analyzing past posts and generating new ones using few-shot prompting and metadata-based conditioning.
+
 ### 📩 Cold Mail Generator (2024)
 A Streamlit-powered tool that scrapes job descriptions and generates customized emails using vector databases and Groq-based inference.
 
