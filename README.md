@@ -12,7 +12,7 @@ I’m a curious mind, AI enthusiast, and builder at heart currently pursuing a *
 
 - 🧠 **Specializations**: Computer Vision, NLP, Generative AI, Embedded Systems  
 - 🔬 **Research-Oriented**: Always exploring how to bridge AI theory with practical, production-grade applications  
-- 🎯 **Goal**: Currently looking for a **Master’s thesis opportunity** in the AI/CV/NLP space  
+- 🎯 **Goal**: Currently looking for a **Working Student or Master’s thesis opportunity** in the AI/CV/NLP space  
 - 🛠️ **Approach**: Clean, scalable, and user-focused software development  
 - 🏆 **Hackathons**: Finalist at Smart India Hackathon, Winner at SSIP Gujarat Hackathon  
 
